@@ -1,0 +1,30 @@
+h1 {
+    background-color: yellow;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: bold;
+    font-family: "Verdana", sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.headerIngredient {
+    color: blueviolet;
+    opacity: 50%;
+}
+
+.headerDescription {
+    color: yellow;
+    text-shadow: red 2px 3px;
+    opacity: 80%;
+}
+
+.headerStep{
+    color: darkgoldenrod;
+    text-decoration-line: underline;
+    text-decoration-thickness: from-font;
+}
